@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/joybombcorp-react/static/css/main.71a4b5a1.css",
+    "main.js": "/joybombcorp-react/static/js/main.7c9ab3ab.js",
+    "static/js/592.0c074ae5.chunk.js": "/joybombcorp-react/static/js/592.0c074ae5.chunk.js",
+    "static/media/i_banner_empty_bg.jpg": "/joybombcorp-react/static/media/i_banner_empty_bg.0d3c11c12134347274aa.jpg",
+    "static/media/p_forum_banner.jpg": "/joybombcorp-react/static/media/p_forum_banner.555a89fb448d1a841c89.jpg",
+    "static/media/p_about_ban_bot_bg.png": "/joybombcorp-react/static/media/p_about_ban_bot_bg.7fe20e71ddc38f7e6ec9.png",
+    "static/media/p_about_intro_y_bg.png": "/joybombcorp-react/static/media/p_about_intro_y_bg.e3097d7c39bff07fbdc3.png",
+    "static/media/p_about_ban_top_bg.png": "/joybombcorp-react/static/media/p_about_ban_top_bg.9adfacf228bd5de209b5.png",
+    "static/media/i_news_bg.jpg": "/joybombcorp-react/static/media/i_news_bg.2292ef00d4f8b10ac58d.jpg",
+    "static/media/i_game_bg.jpg": "/joybombcorp-react/static/media/i_game_bg.c17509140935aa02af40.jpg",
+    "static/media/i_news_m_bg.jpg": "/joybombcorp-react/static/media/i_news_m_bg.fe5cc2675e551f2ef476.jpg",
+    "static/media/p_about_intro_b_bg.jpg": "/joybombcorp-react/static/media/p_about_intro_b_bg.f5535fd4edbd7c90b4bd.jpg",
+    "static/media/logo.svg": "/joybombcorp-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/joybombcorp-react/index.html",
+    "main.71a4b5a1.css.map": "/joybombcorp-react/static/css/main.71a4b5a1.css.map",
+    "main.7c9ab3ab.js.map": "/joybombcorp-react/static/js/main.7c9ab3ab.js.map",
+    "592.0c074ae5.chunk.js.map": "/joybombcorp-react/static/js/592.0c074ae5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71a4b5a1.css",
+    "static/js/main.7c9ab3ab.js"
+  ]
+}
